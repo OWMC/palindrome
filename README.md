@@ -1,7 +1,7 @@
-# Palindrome
+# Roman Numeral Converter
 ================
 
-An app that returns a palindrome. 
+An app that converts numbers to Roman numerals. 
 
 ## Requirements
 
